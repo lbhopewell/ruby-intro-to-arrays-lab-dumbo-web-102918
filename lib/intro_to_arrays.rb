@@ -6,4 +6,8 @@ def array_with_two_elements(element1,element2)
   @my_two_array = [element1,element2]
 end
 
-def first_element()
+def first_element(@taylorswift)
+  @taylorswift[0]
+end
+
+def 
