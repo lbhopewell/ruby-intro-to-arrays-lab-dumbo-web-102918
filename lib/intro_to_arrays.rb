@@ -25,5 +25,8 @@ def last_element_with_array_methods(@south_east_asia)
   @south_east_asia.last 
 end
 
+def length_of_array(@programming_languages)
+  @programming_languages.length
+end
 
   
