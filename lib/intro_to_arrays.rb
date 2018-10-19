@@ -10,4 +10,7 @@ def first_element(@taylorswift)
   @taylorswift[0]
 end
 
-def 
+def third_element(@taylor_swift)
+  @taylor_swift[2]
+end
+
