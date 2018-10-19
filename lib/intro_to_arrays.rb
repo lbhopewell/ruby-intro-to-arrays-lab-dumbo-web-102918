@@ -15,8 +15,9 @@ def third_element(@taylor_swift)
 end
 
 def last_element(@taylor_swift)
-  @taylor_swift.last 
+  @taylor_swift[-1] 
 end
 
 def last_element_with_array_methods(@south_east_asia)
+  @
   
