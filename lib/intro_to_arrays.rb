@@ -18,4 +18,5 @@ def last_element(@taylor_swift)
   @taylor_swift.last 
 end
 
-def 
+def last_element_with_array_methods(@south_east_asia)
+  
