@@ -7,7 +7,7 @@ def array_with_two_elements
 end
 
 def first_element(taylor_swift)
-  @taylorswift[0]
+  @taylorswift[1]
 end
 
 def third_element(taylor_swift)
